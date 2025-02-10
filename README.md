@@ -1,9 +1,7 @@
 ## Hello! I'm Nazrin. 👋
 
-<!--
-**Nali3171/Nali3171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 💻 **Full Stack Software Engineer**  
 🚀 **Currently working on:** Building full-stack applications using modern web technologies.  
@@ -30,7 +28,6 @@ Here are some ideas to get you started:
 - 📚 Master Java and build a complex backend system.  
 - 🌱 Contribute to open-source projects and grow my portfolio.  
 
----
 
 ### 📌 Pinned Projects
 
@@ -38,4 +35,3 @@ Here are some ideas to get you started:
 - 🔹 **[TypeScript Game](https://nali3171.github.io/country-quiz-game/)** – A browser-based quiz about the world using TypeScript.
 
 
--->
