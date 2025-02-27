@@ -9,6 +9,7 @@
 💬 **Ask me about:** Software engineering and transitioning into tech.  
 ⚽ **Hobbies:** Painting, gym, running, Mathematics, and reading.
 
+  
 ---
 ### 🔗 Links
 
